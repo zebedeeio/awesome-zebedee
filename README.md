@@ -6,13 +6,13 @@
 
 <div align="center">
 
-An `awesome` list for the ZEBEDEE API.
+An `awesome` list for the ZEBEDEE API
 <br />
 <br />
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/zebedeeio/awesome-zebedee/blob/HEAD/CONTRIBUTING.md#pull-requests) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/zebedeeio/zbd-node/blob/HEAD/LICENSE.md) 
 <br />
 <br />
-[![bitcoin ln payments](https://img.shields.io/badge/Lightning-Payments-orange?style=for-the-badge&logo=bitcoin)](https://www.npmjs.com/package/@zbd/node)
+[![bitcoin ln payments](https://img.shields.io/badge/Lightning-Payments-orange?style=for-the-badge&logo=bitcoin)](https://zebedee.io)
 
 </div>
 
@@ -30,6 +30,20 @@ An `awesome` list for the ZEBEDEE API.
 
 - [Documentation](https://docs.zebedee.io)
 - [API Reference](https://docs.zebedee.io)
+- [API Status](https://status.zebedee.io)
+- [Help & Support](https://help.zebedee.io)
+
+<br />
+
+- [Official Website](https://zebedee.io)
+- [Official Blog](https://blog.zebedee.io)
+- [Official Discord](https://discord.gg/zbd)
+
+## Libraries & SDKs
+
+## Guides
+
+## Misc
 
 ## Contributors
 
