@@ -39,11 +39,11 @@ An `awesome` list for the ZEBEDEE API
 - [Official Blog](https://blog.zebedee.io)
 - [Official Discord](https://discord.gg/zbd)
 
-## Libraries & SDKs
+<!-- ## Libraries & SDKs
 
 ## Guides
 
-## Misc
+## Misc -->
 
 ## Contributors
 
