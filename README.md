@@ -32,6 +32,17 @@ An `awesome` list for the ZEBEDEE API
 - [Official Blog](https://blog.zebedee.io)
 - [Official Discord](https://discord.gg/zbd)
 
+## SDKs
+
+- [@zbd/node -- Node.js Library for ZEBEDEE API](https://github.com/zebedee/zbd-node) - [Documentation](https://zbd-node.dev.zebedee.cloud)
+- [zbd/go -- Go Library for ZEBEDEE API](https://github.com/zebedee/zbd-go)
+- [zebedee-rust -- Rust Library for ZEBEDEE API](https://crates.io/crates/zebedee-rust)
+
+## Misc
+
+- [Bit-tendo - Bitcoin Pay to Play & Earn](https://twitter.com/MandelDuck/status/1624886567071363076)
+- [Unlocking a building door with the ZEBEDEE API](https://twitter.com/PlebLab/status/1654486818027339785)
+
 <!-- ## Starter Kits & Templates
 
 - [Next.js + ZEBEDEE Starter](https://google.com) -->
